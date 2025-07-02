@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goutham1112
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me goutham111220@gmail.com
 
